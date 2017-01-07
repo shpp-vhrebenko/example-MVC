@@ -1,0 +1,7 @@
+Что такое SQL инъекции https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_SQL-%D0%BA%D0%BE%D0%B4%D0%B0
+
+Статья про sql инъекции простыми словами http://habrahabr.ru/post/148151/
+
+Ваши ДЗ с моими комментариями в архиве DZ-lesson2
+
+Статья про MVC простыми словами http://habrahabr.ru/post/259369/
